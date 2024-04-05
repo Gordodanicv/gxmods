@@ -1,0 +1,5 @@
+var hinoCorinthians = new Audio('"C:\Users\Usuario\Downloads\zelua-corinthiano-56a093.mp3"');
+
+// Reproduza o hino do Corinthians em loop
+hinoCorinthians.loop = true;
+hinoCorinthians.play();
